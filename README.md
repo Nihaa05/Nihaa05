@@ -29,7 +29,7 @@
 ---
 
 ## 📄 Resume
-You can view my resume (NiharikaP.pdf)
+You can view my resume (https://github.com/Nihaa05/Nihaa05/blob/main/NiharikaP.pdf)
 
 ---
 ### 📜 Certifications

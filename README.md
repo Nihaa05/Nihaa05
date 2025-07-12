@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Niharika Pendem
 
-📌 I’m currently **open to Data Engineer roles** located in the **United States**, and excited to bring my skills to a collaborative, forward-thinking team!
-🎯 Microsoft-certified Data Engineer with hands-on experience designing and automating end-to-end data pipelines using Python, SQL, Spark, and cloud platforms like Azure and AWS.
-🎓 Earned a Master's in Computer Science from Texas A&M University – Corpus Christi, with a strong focus on data engineering, cloud integration, and scalable analytics systems.
+📌 I’m currently **open to Data Engineer roles** located in the **United States** and excited to bring my skills to a collaborative, forward-thinking team.
+
+🎯 Microsoft-certified Data Engineer with hands-on experience designing and automating end-to-end data pipelines using **Python**, **SQL**, **Spark**, and cloud platforms like **Azure** and **AWS**.
+
+🎓 Earned a **Master's in Computer Science** from **Texas A&M University – Corpus Christi**, with a strong focus on **data engineering**, **cloud integration**, and **scalable analytics systems**.
 
 🔍 I specialize in:
 - **Data Engineering**, **ETL Automation**, and **Pipeline Development**

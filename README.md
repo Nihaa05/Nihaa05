@@ -27,11 +27,17 @@
 - Used: `SQL`, `Python`, `Power BI`, `Oracle`, `Jira`, `Bitbucket`, `Unix`, `Airflow`, `EnergyIP`
 
 ---
+
+## 📄 Resume
+You can view my resume (NiharikaP.pdf)
+
+---
 ### 📜 Certifications
 
 - ✅ [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/en-us/users/pendemniharika-7965/credentials/125ff39ed473009d?ref=https%3A%2F%2Fwww.linkedin.com%2F)  
 - ✅ [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/iframe/ec70a41b5c00)
 - ✅ [LinkedIn Learning – Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/5bcd8e377fed2e08de22328b2b3a0818761096d9d577080d5f9c5f8832a470ad?u=75727812)
+  
 ----
 
 ### 📫 How to Reach Me

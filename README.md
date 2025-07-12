@@ -36,9 +36,9 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: niharika.yourname@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🧑‍💻 [GitHub](https://github.com/niharikapendem)
+- 📧 Email: niharikapendem57@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/niharika-pendem/)
+- 🧑‍💻 [GitHub](https://github.com/Nihaa05)
 
 ---
 

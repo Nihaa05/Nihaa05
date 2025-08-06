@@ -25,7 +25,7 @@
 
 ### 🌟 Highlight Project: **Smart Metering System – Statewide Electricity Management (Accenture)**
 
-- Developed ETL workflows to handle 10M+ daily records, enabling virtual billing, usage monitoring & reporting
+- Developed ETL workflows to handle 1M+ daily records, enabling virtual billing, usage monitoring & reporting
 - Automated status/health checks across billing system and customer regions
 - Generated ad-hoc and scheduled reports for leadership/stakeholders
 - Used: `SQL`, `Python`, `Power BI`, `Oracle`, `Jira`, `Bitbucket`, `Unix`, `Airflow`, `EnergyIP`
